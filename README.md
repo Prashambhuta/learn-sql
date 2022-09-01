@@ -3,7 +3,9 @@
 All tips & tricks regarding SQL; (MySQL, PostgresSQL, SQLite)
 
 ## Basic structure
+
 1. Structure of SQL queries - [Sheet](sql-structure.md)
+2. Subqueries of SQL - [Sheet](subquery-structure.md`)
 
 ## Learning sheets.
 
@@ -11,6 +13,10 @@ All tips & tricks regarding SQL; (MySQL, PostgresSQL, SQLite)
 2. Basics command in SQL - [Sheet](step01-sql.md)
 3. SQL JOINs - [Sheet](joins.md)
 4. Unions and intersection - [Sheet](unions-and-intersection.md)
+
+## Definitions & Keywords
+
+1. Keywords - [Sheet](sql-keywords.md)
 
 ## Projects
 
