@@ -27,3 +27,18 @@ Tips:
 
 * `HAVING` is used to filter out values of aggregated columns, such as, `HAVING COUNT(*) > 2`
 
+## Data Types
+
+Various types of data is supported by SQL. The most common ones are 
+
+* Numbers
+* Currency
+* Binary
+* Date/Time
+* JSON
+* XML
+* Geometric
+* UUID
+* Boolean 
+
+
