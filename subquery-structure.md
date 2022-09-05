@@ -43,4 +43,17 @@ Subquery in WHERE:\
 WHERE <column name> <criteria> <subquery>   -- where statements
 ```
 
-example: `WHERE price > (SELECT AVG(price) from database);`
+example: 
+
+§products table
+|id | product_name | price|
+|----| ---- | ----|
+|1| shirt | 299|
+|2| tshirt | 199 |
+|3| jeans | 499 |
+
+```sql
+SELECT product_name, price 
+FROM products
+WHERE price > (SELECT AVG(price) from database);
+```
