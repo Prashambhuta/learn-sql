@@ -23,3 +23,7 @@ CASE
     ..
     ELSE <return>
 ```
+
+### PREPARE
+
+The prepare statement helps clean the values before entering it into a query. Especailly useful for running queries through API.
