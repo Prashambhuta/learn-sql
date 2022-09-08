@@ -14,6 +14,7 @@ All tips & tricks regarding SQL; (MySQL, PostgresSQL, SQLite)
 3. SQL JOINs - [Sheet](joins.md)
 4. Unions and intersection - [Sheet](unions-and-intersection.md)
 5. Transactions - [Sheet](transactions.md)
+6. CTE - [Sheet](cte.md)
 
 ## Definitions & Keywords
 
